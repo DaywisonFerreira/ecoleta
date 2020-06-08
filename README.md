@@ -58,7 +58,7 @@ O projeto web e mobile utilizaram a API do IBGE para carregadas os estados e os 
   ```
   ----
 ### Desenvolvido com :heart: por Daywison Leal 
-[LinkedIn] (https://www.linkedin.com/in/daywison-leal/)
+-  [LinkedIn](https://www.linkedin.com/in/daywison-leal/)
 
 
 
